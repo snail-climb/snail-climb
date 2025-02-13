@@ -1,30 +1,20 @@
-# Hi 👋, I'm Forrest
+# 你好 👋, 我是 Forrest
 
-**⭐ About me**
+## ⭐ 关于我
 
-- 💼 Full Stack Engineer.
+- 💼 一名热爱技术的全栈工程师，专注于构建高效、可扩展的应用程序。
 
-- ❤️ All grown-ups were once children... but only few of them remember it.
+- 🌱 不断学习新技术，喜欢探索编程语言、框架和工具背后的设计哲学。
 
-<p>
-  <strong>Technology stack: </strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="20" height="20"/>
-</p>
+- 🚀 热衷于将想法转化为现实，享受从零到一的过程。
 
-**✨ Github statistics**
-<br/>
+- ❤️ 相信代码不仅是工具，更是创造力和逻辑思维的体现。
+
+- 📚 喜欢阅读技术文档和开源项目，也乐于分享自己的经验和见解。
+
+## ✨ GitHub 统计
 <img src="https://github-readme-stats.vercel.app/api?username=forrest&count_private=true&show_icons=true&hide_title=true&theme=buefy&locale=cn" alt="img"/>
 
-**✨ The most commonly used language**
-<br/>
+## ✨ 最常用的语言
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forrest&layout=compact&hide_title=true&theme=buefy&locale=cn" alt="img"/>
 
