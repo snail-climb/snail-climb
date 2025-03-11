@@ -13,8 +13,8 @@
 - 📚 喜欢阅读技术文档和开源项目，也乐于分享自己的经验和见解。
 
 ## ✨ GitHub 统计
-<img src="https://github-readme-stats.vercel.app/api?username=forrest&count_private=true&show_icons=true&hide_title=true&theme=buefy&locale=cn" alt="img"/>
+<img src="https://github-readme-stats.vercel.app/api?username=snail-climb&count_private=true&show_icons=true&hide_title=true&theme=radical&locale=cn" alt="img"/>
 
 ## ✨ 最常用的语言
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forrest&layout=compact&hide_title=true&theme=buefy&locale=cn" alt="img"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snail-climb&layout=compact&hide_title=true&theme=radical&locale=cn" alt="img"/>
 
