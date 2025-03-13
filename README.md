@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=snail-climb&count_private=true&show_icons=true&hide_title=true&theme=transparent&locale=cn" alt="img"/>
 
 ## ⏳ 编码时长统计
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Forrest1112&layout=compact&langs_count=10&hide_title=true" alt="img"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Forrest1112&layout=compact&langs_count=8&hide_title=false" alt="img"/>
 
 ## ✨ 代码语言分布
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snail-climb&layout=compact&hide_title=true&theme=transparent&locale=cn" alt="img"/>
