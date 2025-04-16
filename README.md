@@ -1,5 +1,9 @@
 # 你好 👋, 我是 Forrest
 
+<div>
+  <img src="./assets/picture01.svg" style="width:30%"/>
+</div>
+
 ## ⭐ 关于我
 
 - 💼 一名热爱技术的全栈工程师，专注于构建高效、可扩展的应用程序。
