@@ -1,7 +1,7 @@
 # 你好 👋, 我是 Forrest
 
 <div>
-  <img src="./assets/picture01.svg" style="width:30%"/>
+    <img src="./assets/picture01.svg" alt="img" style="width:30%" />
 </div>
 
 ## ⭐ 关于我
@@ -17,11 +17,15 @@
 - 📚 喜欢阅读技术文档和开源项目，也乐于分享自己的经验和见解。
 
 ## 📊 GitHub 活跃数据
-<img src="https://github-readme-stats.vercel.app/api?username=snail-climb&count_private=true&show_icons=true&hide_title=true&theme=transparent&locale=cn" alt="img"/>
+<img src="https://github-readme-stats.vercel.app/api?username=snail-climb&count_private=true&show_icons=true&hide_title=true&theme=transparent&locale=cn" alt="img" />
 
 ## ⏳ 编码时长统计
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Forrest1112&layout=compact&langs_count=8&hide_title=false" alt="img"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Forrest1112&layout=compact&langs_count=8&hide_title=false" alt="img" />
 
 ## ✨ 代码语言分布
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snail-climb&layout=compact&hide_title=true&theme=transparent&locale=cn" alt="img"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snail-climb&layout=compact&hide_title=true&theme=transparent&locale=cn" alt="img" />
+
+<div>
+    <img src="./assets/picture02.webp" alt="img" style="border-radius:30px" />
+</div>
 
